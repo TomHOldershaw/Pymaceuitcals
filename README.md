@@ -1,4 +1,4 @@
-# Pymaceuitcals
+# Pymaceuticals
 Homework week 5- matplotlib
 ===========================
 
